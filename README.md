@@ -15,7 +15,7 @@ This project analyzes student performance based on study habits and attendance.
 - Excel Dashboard
 
 ## Dashboard
-(Add your screenshot here)
+![Dashboard](dashboard.png)
 
 ## Conclusion
 Study hours and attendance strongly affect student performance.
